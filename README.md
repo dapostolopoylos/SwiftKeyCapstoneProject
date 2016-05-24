@@ -1,5 +1,5 @@
 # Data Sciense Specialization Capstone Project
-This is the repository where there is all the code written for the SwiftKey Capstone Project as final part of the Data Sciense Specialization provided by JHU and Coursera.
+This is the repository where there is all the code written for the [SwiftKey](https://swiftkey.com/en) Capstone Project as final part of the Data Sciense Specialization provided by [JHU](https://www.jhu.edu/) and [Coursera](https://www.coursera.org/).
 
 This repository contains three separate folders:
 
@@ -10,5 +10,5 @@ This repository contains three separate folders:
 ----------------------------
 #### Links
 
-- The Predict the next word application is hosted on shinyapps.io:
+- The *"Predict the next word"* application is hosted on shinyapps.io:
 - The pitch deck is hosted on RPubs:
