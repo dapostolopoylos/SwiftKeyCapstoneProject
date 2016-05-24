@@ -5,3 +5,4 @@ This repository contains three separate folders:
 
 - **ShinyApp**: Contains all the code written for the shiny app which was the final data product for the Capstone Project, as well as image files and data files needed.
 - **Pitch-Deck**: Contains the pitch deck presentation for the shiny app and all the necessary images and code files.
+- **Scripts**: Contains all the scripts that were written for downloading the data, creating the corpus, do all the necessary operations on the data, create the ngrams and the final prediction algorithm.
