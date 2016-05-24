@@ -11,4 +11,4 @@ This repository contains three separate folders:
 #### Links
 
 - The *"Predict the next word"* application is hosted on shinyapps.io: [https://dapostolopoylos.shinyapps.io/NextWord/](https://dapostolopoylos.shinyapps.io/NextWord/)
-- The pitch deck is hosted on RPubs:
+- The pitch deck is hosted on RPubs: [http://rpubs.com/dapostolopoylos/CapstoneProject](http://rpubs.com/dapostolopoylos/CapstoneProject)
